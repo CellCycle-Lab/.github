@@ -17,6 +17,7 @@ Whether you’re building something new or refining an existing pipeline, this i
 
 ## 🔐 Private
 Most repositories here expected to be private so that ongoing projects, early‑stage analyses, and exploratory ideas can be developed without external visibility.  
+
 The goal is to maintain a comfortable working space for the team, not a public portfolio.
 
 ---
@@ -36,7 +37,7 @@ If you’re unsure who the current owners are, just ask within the lab — any o
 
 ---
 
-## 🛠️ How to get started
+## 🛠️ Getting started
 1. Create or clone a repository inside the organisation  
 2. Use whatever workflow suits your project — branches, pull requests, issues  
 3. Share code as you go; short scripts or full projects are both welcome  
