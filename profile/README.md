@@ -1,4 +1,4 @@
-# CellCycle‑Lab GitHub Organisation
+# 👋 Hello!
 
 Welcome to the **CellCycle‑Lab** GitHub space — a shared home for the lab’s code, pipelines, analysis tools, and computational projects.  
 This ``GitHub Organisation`` allows members to **share version‑controlled code privately** within the lab.
@@ -61,4 +61,4 @@ Small contributions are completely welcome; this space will grow naturally with 
 ## 🌱 Open to improvements
 If you have ideas for how this GitHub organisation could be more useful — better repo structure, templates, documentation, naming conventions — please contribute.  
 This is intentionally a **starting point**, not a finished product.
-``
+
